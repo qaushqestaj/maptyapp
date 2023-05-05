@@ -1,4 +1,4 @@
-# Mapty App.
+# Mapty App
 
 Workout map application for Running and Cycling.
 
